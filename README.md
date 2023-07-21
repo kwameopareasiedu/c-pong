@@ -2,6 +2,8 @@
 
 My first graphics application written using **C** and **[SDL](https://www.libsdl.org/)**. The classic pong game!
 
+![](./c-pong.gif)
+
 ## Running The Game
 
 1. To run the project make the `pong` binary executable by running `chmod 744 pong`
